@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dtsiaras
+- 👋 Hi, I’m Dimitrios Tsiaras ( @dtsiaras )
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning the development of training algorithms for RBF neural networks
 - 💞️ I’m looking to collaborate on machine learning projects among other things
